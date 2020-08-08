@@ -13,3 +13,5 @@ steps to follow:
   (python window.py windows)
 
 window.exe file is created by using pyinstaller which can run in windows environment even without python installed
+
+![alt text](https://github.com/pavan-aeturi/AStarPathFinding/blob/master/ezgif.com-video-to-gif.gif?raw=true)
